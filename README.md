@@ -1,5 +1,7 @@
 # CRM Opportunities Dashboard
 
+## [Project link](https://docs.google.com/spreadsheets/d/1cLvBaQ19B1CEjp8JkACAOdRnhUwNcmAIp6jcV4UQe8k/edit?usp=sharing)
+
 ## Project Description
 The **CRM Opportunities Dashboard** is designed to help Sales Managers track their team's quarterly performance in a visually interactive and insightful way. This dashboard leverages data from a fictitious company that sells computer hardware to provide a clear view of sales opportunities won by quarter, percentages of won/lost opportunities, and performance by sales agent.
 
